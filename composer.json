@@ -1,0 +1,15 @@
+{
+    "name": "tu-usuario/azure-blob-integration",
+    "description": "Aplicación de demostración para integración con Azure Blob Storage",
+    "type": "project",
+    "require": {
+        "microsoft/azure-storage-blob": "^1.5",
+        "microsoft/azure-storage-common": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Tu Nombre",
+            "email": "tu-email@dominio.com"
+        }
+    ]
+}
